@@ -1,0 +1,81 @@
+{
+  "checkpoints": [
+    {
+      "i": 48,
+      "day": 1,
+      "slot": 7,
+      "season": 2026,
+      "size": 1054752,
+      "sha": "81b3139c14a4027e6aa55e05f6daeb4dc63734d2"
+    },
+    {
+      "i": 96,
+      "day": 2,
+      "slot": 15,
+      "season": 2026,
+      "size": 1464405,
+      "sha": "f520844ea323a6d0e4597cac5354a56345698c0a"
+    },
+    {
+      "i": 144,
+      "day": 3,
+      "slot": 23,
+      "season": 2026,
+      "size": 1611774,
+      "sha": "6797a31c3e2553a9dc61950a4685eed17ac30ca4"
+    },
+    {
+      "i": 192,
+      "day": 4,
+      "slot": 31,
+      "season": 2026,
+      "size": 1740133,
+      "sha": "e3568ccb5b6920fc90c35c044ab61bf31b996062"
+    },
+    {
+      "i": 240,
+      "day": 5,
+      "slot": 39,
+      "season": 2026,
+      "size": 1901868,
+      "sha": "fd1f17292b5ea62b1f535bd384b9ad68329e3e31"
+    },
+    {
+      "i": 288,
+      "day": 6,
+      "slot": 47,
+      "season": 2026,
+      "size": 1991012,
+      "sha": "91a4d68e80e71fc0efbb7a063096e090cd24908f"
+    },
+    {
+      "i": 336,
+      "day": 7,
+      "slot": 55,
+      "season": 2026,
+      "size": 2088037,
+      "sha": "94bfc4b8d41dfa1c31e2bb030a4ac9c18b4df9e0"
+    },
+    {
+      "i": 384,
+      "day": 8,
+      "slot": 56,
+      "season": 2026,
+      "size": 2094827,
+      "sha": "829d0d261191ab7ca2bf0c9d926f417bc070e0b8"
+    }
+  ],
+  "summary": {
+    "slot": 56,
+    "season": 2026,
+    "played": 56,
+    "news": 215,
+    "top": [
+      "Flamengo",
+      "Palmeiras",
+      "Corinthians",
+      "São Paulo",
+      "Santos"
+    ]
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "name": "prancheta-server",
+  "private": true,
+  "version": "0.1.0",
+  "type": "module",
+  "scripts": {
+    "test": "vitest run",
+    "start": "node --env-file=.env src/main.js"
+  },
+  "devDependencies": {
+    "vitest": "^5.0.3"
+  },
+  "dependencies": {
+    "@electric-sql/pglite": "^0.5.8",
+    "pg": "^8.23.1"
+  }
+}

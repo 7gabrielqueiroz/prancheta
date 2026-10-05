@@ -1,0 +1,23 @@
+// Ponto de entrada do motor. Liga as dependências posteriores (ver convert-engine.mjs).
+import * as core_m from './core.js';
+import * as world_m from './world.js';
+import * as match_m from './match.js';
+import * as season_m from './season.js';
+import * as train_m from './train.js';
+import * as market_m from './market.js';
+import * as events_m from './events.js';
+import * as sprites_m from './sprites.js';
+export const CORE = core_m.CORE;
+export const WORLD = world_m.WORLD;
+export const SIM = match_m.SIM;
+export const SEASON = season_m.SEASON;
+export const TRAIN = train_m.TRAIN;
+export const MARKET = market_m.MARKET;
+export const EVENTS = events_m.EVENTS;
+export const SPR = sprites_m.SPR;
+const deps = { CORE, WORLD, SIM, SEASON, TRAIN, MARKET, EVENTS, SPR };
+world_m.__bind(deps);
+season_m.__bind(deps);
+train_m.__bind(deps);
+market_m.__bind(deps);
+events_m.__bind(deps);

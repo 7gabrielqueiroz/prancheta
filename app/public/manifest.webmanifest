@@ -1,0 +1,10 @@
+{
+  "name": "PRANCHETA",
+  "short_name": "PRANCHETA",
+  "description": "O jogo começa fora de campo.",
+  "start_url": ".",
+  "display": "standalone",
+  "background_color": "#08120E",
+  "theme_color": "#08120E",
+  "icons": []
+}
